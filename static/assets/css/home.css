@@ -89,7 +89,7 @@ input {
    pointer-events: none;
 }
 
-#splash {
+#subtextG {
    color: var(--text-dark);
    margin-bottom: 1em;
    margin-top: -2em;
